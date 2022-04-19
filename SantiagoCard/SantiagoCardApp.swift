@@ -11,7 +11,7 @@ import SwiftUI
 struct SantiagoCardApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainScreen()
         }
     }
 }
