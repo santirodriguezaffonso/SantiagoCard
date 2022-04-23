@@ -25,7 +25,6 @@ struct MainScreen: View {
                     .font(Font.custom("Poppins-Regular", size: 30))
                     .foregroundColor(.white)
                     .multilineTextAlignment(.center)
-                    .padding()
                 Text("iOS Developer")
                     .foregroundColor(.white)
                     .font(.title2)
